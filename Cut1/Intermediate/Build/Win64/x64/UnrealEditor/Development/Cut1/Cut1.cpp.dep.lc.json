@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\github\\cut\\cut1\\source\\cut1\\cut1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\github\\cut\\cut1\\intermediate\\build\\win64\\x64\\cut1editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\github\\cut\\cut1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cut1\\definitions.cut1.h",
+            "c:\\users\\user\\documents\\github\\cut\\cut1\\source\\cut1\\cut1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

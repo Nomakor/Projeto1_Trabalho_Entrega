@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Cut1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Cut1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Cut1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Cut1">
+      <UniqueIdentifier>{E805BEE6-9832-3715-A115-83F32A6CFF93}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Cut1\Cut1.Build.cs">
+      <Filter>Source\Cut1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Cut1\Cut1.cpp">
+      <Filter>Source\Cut1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cut1\Cut1.h">
+      <Filter>Source\Cut1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cut1\Cut1Character.cpp">
+      <Filter>Source\Cut1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cut1\Cut1Character.h">
+      <Filter>Source\Cut1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cut1\Cut1GameMode.cpp">
+      <Filter>Source\Cut1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cut1\Cut1GameMode.h">
+      <Filter>Source\Cut1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cut1\DoorActor.cpp">
+      <Filter>Source\Cut1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cut1\DoorActor.h">
+      <Filter>Source\Cut1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cut1\MyAICharacter.cpp">
+      <Filter>Source\Cut1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cut1\MyAICharacter.h">
+      <Filter>Source\Cut1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cut1\MyAIController.cpp">
+      <Filter>Source\Cut1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cut1\MyAIController.h">
+      <Filter>Source\Cut1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
