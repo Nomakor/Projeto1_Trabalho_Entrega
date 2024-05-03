@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LPIII_Class",
+			"Path": "..\\Source\\LPIII_Class.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LPIII_ClassEditor",
+			"Path": "..\\Source\\LPIII_ClassEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

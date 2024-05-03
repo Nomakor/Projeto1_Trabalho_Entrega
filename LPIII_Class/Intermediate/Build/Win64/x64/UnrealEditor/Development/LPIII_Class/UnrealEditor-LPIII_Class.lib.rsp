@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LPIII_Class.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Documents\Unreal Projects\LPIII_Class\Intermediate\Build\Win64\x64\LPIII_ClassEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\User\Documents\Unreal Projects\LPIII_Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\LPIII_Class\LPIII_Class.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\LPIII_Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\LPIII_Class\MyClass.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\LPIII_Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\LPIII_Class\Default.rc2.res"
+/OUT:"C:\Users\User\Documents\Unreal Projects\LPIII_Class\Intermediate\Build\Win64\x64\UnrealEditor\Development\LPIII_Class\UnrealEditor-LPIII_Class.lib"

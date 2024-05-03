@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0M/W9SLJDMKDG4U6R1QWDHSJT.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/Blueprin_Classt/platVertical.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/Blueprin_Classt/platVertical1.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/4H/SFPJXJ5CQIBVLARGO8WA3A.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/BP_Botframe.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/Bot_Controller.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/BB_Bot.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/BTT_Chase.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/BTT_Find.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/BT_Bot.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZF/FU1HJ5261REG64090T0XM8.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ZN/DP423PBY2LA44E4FP4HFMB.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/V0/FFRIGVVYS1WQ742EIVJWPI.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/Stick/BP_Radar.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/5M/UNXBURP16NHDU926DT1X8B.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/J2/ZN9GPGJWKTEUIR0BF26VXP.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/ThirdPerson/Maps/_GENERATED/Nomakor/CubeGridToolOutput_DAA6914E.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/BP_PatrolStation.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/BP_PatrolFollow.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/Bot_Station.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/Stick/BP_PatrolStation.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/Stick/Bot_Station.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/Stick/BB_Station.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/Stick/BT_Station.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/Stick/BTTask_Chase.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ZB/SEJ5HRH3IT7TJYS2LKHX5L.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KU/DD0861FXU9YV3DJ7YIVB14.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/Stick/BTTask_ReturnHome.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/Stick/Test1.uasset",
+				"C:/Users/User/Documents/Unreal Projects/LPIII_Class/Content/AI/BP_Bot.uasset"
+			]
+		}
+	]
+}
